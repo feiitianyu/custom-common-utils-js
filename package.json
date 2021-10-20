@@ -1,0 +1,13 @@
+{
+  "name": "@feiitianyu/custom-common-utils-js",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "feiitianyu/custom-common-utils-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils","js"],
+  "author": "",
+  "license": "ISC"
+}
